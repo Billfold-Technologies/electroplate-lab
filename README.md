@@ -1,1 +1,1 @@
-# extension-lab
+# electroplate-lab
