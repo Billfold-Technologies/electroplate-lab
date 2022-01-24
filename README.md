@@ -9,6 +9,7 @@ bft-electroplate.lab is the repository for Billfold Technology electroplate base
 |  Repository: | [electroplate-lab](https://github.com/Billfold-Technologies/electroplate-lab/) |
 |  Access token: | OAuth |
 |  Nucleus class: | electroplate.lab |
+|  Deployment name: | `npm install` electroplatelab |
 
 The nucleus class establishes and sets the CLI. The Personal Business Machines (PBM) motherboard hosts seven class series daughterboards and their business particles. The classes naming convention follows the build filename. A directory of classes may be found here:
 | Nucleus Class | Description
